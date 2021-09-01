@@ -18,7 +18,7 @@
   <img align="center" alt="Qno-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Qno-Unity" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
   <img align="center" alt="Qno-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg">
-  <img align="right" alt="Qno-Gif" src="https://cdn.discordapp.com/attachments/882735849710706688/882735913199882240/qnomon.gif">                                                                                                                                      
+  <img align="right" alt="Qno-Gif" height="250" width="250" src="https://cdn.discordapp.com/attachments/882735849710706688/882735913199882240/qnomon.gif">                                                                                                                                      
                                                                                                                                         
 </div>
   
