@@ -26,7 +26,6 @@
  <div> 
   <a href="https://www.linkedin.com/in/eric-henrique/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/qnomon" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/erichenriquesilva02" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
 ## I'm a 3D artist and technical artist too
@@ -35,5 +34,7 @@
   <img align="center" alt="Qno-Lua" height="320" width="320" src="https://www.artstation.com/api/v2/image_capture/digital_cards/erichenrique.png">
   </a>
 </div>
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Koala Mask" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/fc8fdb88aee14bf5bbab5929cad8eb75/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/koala-mask-fc8fdb88aee14bf5bbab5929cad8eb75" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Koala Mask </a> by <a href="https://sketchfab.com/qnomon" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> qnomon </a> on <a href="https://sketchfab.com" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 Check my skills in my [curriculum](./Eric_Henrique_de_Oliveira_Silva_-_3D_Artist.pdf)
